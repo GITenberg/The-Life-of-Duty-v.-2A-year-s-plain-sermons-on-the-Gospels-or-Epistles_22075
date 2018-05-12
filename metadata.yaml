@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25079'
     url: http://www.gutenberg.org/2009/agents/25079
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22075#The-Life-of-Duty-v.-2A-year-s-plain-sermons-on-the-Gospels-or-Epistles
 gutenberg_issued: '2007-07-15'
 gutenberg_type: Text
 identifiers:
